@@ -33,4 +33,4 @@ sed -i 's/"CPU 性能优化调节"/"超频"/g' feeds/luci/applications/luci-app-
 
 git clone --branch master https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic.git package/lean/luci-app-unblockneteasemusic
 
-git https://github.com/vernesong/OpenClash.git package/lean/luci-app-openclash
+git remote add -f origin https://github.com/vernesong/OpenClash.git package/lean/luci-app-openclash
