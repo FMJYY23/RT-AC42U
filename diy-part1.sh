@@ -15,4 +15,4 @@
 
 # Add a feed source
 
-git clone --depth=1 -b main https://github.com/fw876/helloworld package/helloworld
+git clone --depth=1 https://github.com/fw876/helloworld.git package/helloworld
